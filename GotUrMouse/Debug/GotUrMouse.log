@@ -1,0 +1,7 @@
+﻿  GotUrMouse.cpp
+C:\Users\mitch\source\repos\GotUrMouse\GotUrMouse.cpp(166,11): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\mitch\source\repos\GotUrMouse\GotUrMouse.cpp(172,11): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\mitch\source\repos\GotUrMouse\GotUrMouse.cpp(204,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\mitch\source\repos\GotUrMouse\GotUrMouse.cpp(205,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\mitch\source\repos\GotUrMouse\GotUrMouse.cpp(252,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  GotUrMouse.vcxproj -> C:\Users\mitch\source\repos\GotUrMouse\Debug\GotUrMouse.exe
